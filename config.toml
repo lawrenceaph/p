@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "title (2)"
+title = "Awesome New Title!"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,10 +12,10 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "author (15)"
-description = "description (16)"
+author = "Awesome New Author Name"
+description = "Awesome Description"
 keywords = "site, all"
-info = "info (17)"
+info = "Awesome New Info!"
 avatarURL = "images/owlpink.png"
 # gravatar = "images/owlpink.png"
 footerContent = "footerContent. (21)"
